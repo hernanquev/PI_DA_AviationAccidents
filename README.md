@@ -1,4 +1,5 @@
-![image](https://github.com/hernanquev/PI_DA_AviationAccidents/assets/133261827/95765862-3f80-4ea1-ac90-200cf64a24ee)
+![Linkedin Henry STUDENTS-01](https://github.com/hernanquev/PI_DA_AviationAccidents/assets/133261827/96a7034f-d2cd-463f-b2c7-30fa3cfcbe01)
+
 
 # <h1 align=center> **PROYECTO INDIVIDUAL - Data Analytics** </h1>
 
@@ -22,3 +23,6 @@ El proyecto incorpora dos componentes clave: el Análisis Exploratorio de Datos 
 #### `Dashboard`
 
 Análisis con Power BI: Los resultados obtenidos a través del Análisis Exploratorio de Datos (EDA) y el proceso Extract, Transform, Load (ETL) se importan a Power BI, donde se llevan a cabo análisis de mayor complejidad. Se aprovecha la capacidad de Power BI para crear un panel interactivo que incluye visualizaciones interactivas, permitiendo un análisis más profundo de los datos. Estas visualizaciones incluyen gráficos interactivos con filtros y segmentaciones que influyen de manera global en todos los elementos de la página, lo que facilita la identificación de diferencias y similitudes en cada visualización.
+
+### Contacto: https://www.linkedin.com/in/hernanquevedo/ 
+### Email: hernanquev@gmail.com
